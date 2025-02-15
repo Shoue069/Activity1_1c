@@ -1,0 +1,25 @@
+.header {
+background-color: black;
+color: white;
+text-align: center;
+padding: 15px;
+}
+
+main {
+background-color: silver;
+padding: 20px;
+}
+
+section {
+background-color: gray;
+margin: 15px 0;
+padding: 15px;
+color: white;
+}
+
+.footer{
+background-color: black;
+color: white;
+text-align: center;
+padding: 10px;
+}
